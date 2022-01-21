@@ -138,3 +138,45 @@ body {
 .hero-btn:hover {
   background-color: rgb(240, 188, 188);
 }
+/* ****** VIDEO SECTION ****** */
+
+.video {
+	padding-top: 95px;
+	padding-bottom: 95px;
+}
+
+.section-inner {
+	display: flex;
+	align-items: center;
+}
+
+.section-column {
+	max-width: 540px;
+	padding-right: 95px;
+}
+
+.section-title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 43px;
+	color: #000000;
+	margin: 0;
+	margin-bottom: 25px;
+}
+
+.video-descr {
+	line-height: 140%;
+	text-align: justify;
+}
+
+.video-link {
+	line-height: 140%;
+	color: #ED4C5C;
+	text-decoration: none;
+}
+
+.video-player {
+	width: 445px;
+	height: 311px;
+	border-radius: 15px;
+}
